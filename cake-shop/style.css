@@ -1,0 +1,548 @@
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+
+.emaillogo {
+    font-size: 40px;
+    color: orange;
+}
+
+.cake {
+    font-size: 40px;
+}
+
+.head {
+    color: white;
+    font-weight: 600;
+}
+
+.head-col {
+    background-color: orange;
+}
+
+.head-name {
+    width: 100%;
+    border: 1px solid white;
+}
+.navbar{
+    position: sticky;
+    top: 0px;
+    z-index: 2;
+}
+
+.callogo {
+    color: orange;
+}
+
+.nav-cake {
+    color: orange;
+}
+
+.navbar-brand {
+    color: white;
+    font-size: 35px;
+    font-weight: 600;
+
+}
+
+.navbar-brand:hover {
+    color: white;
+}
+
+.navbarhead {
+    background-color: rgb(43, 40, 37);
+}
+
+.fa-birthday-cake {
+    color: orange;
+}
+
+.nav:hover {
+    color: orange;
+}
+
+.nav-link {
+    color: white;
+    font-size: 17px;
+    font-family: 'Oswald', sans-serif;
+    font-weight: 600;
+    transition: .5s;
+
+}
+
+.nav-link:hover {
+    color: orange;
+}
+
+.cakeimg {
+
+    background-image: url(/cake-shop/img/hero.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.super {
+    font-family: 'Pacifico', cursive;
+    color: orange;
+    font-size: 40px;
+}
+
+.bannerzone {
+    font-size: 80px;
+    color: white;
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+}
+
+.london {
+    color: white;
+    font-family: "Oswald", sans-serif;
+    font-weight: 700;
+    font-size: 40px;
+}
+
+.btn {
+    background-color: orange;
+    border-radius: 3px;
+}
+.btn:hover{
+    background-color: orange;
+}
+
+.bi {
+    color: orange;
+    font-size: 50px;
+
+}
+
+.video {
+    color: white;
+    font-size: 20px;
+    font-family: "Oswald", sans-serif;
+    margin-bottom: 50px;
+
+}
+
+.about {
+    font-family: 'Pacifico', cursive;
+    color: orange;
+    font-size: 35px;
+    font-weight: 600;
+}
+
+.about-welcome {
+    font-family: "Oswald", sans-serif;
+    font-size: 60px;
+    font-weight: 600;
+    line-height: 70px;
+}
+
+.underline {
+    width: 20%;
+    height: 2px;
+    background-color: orange;
+    position: relative;
+
+}
+
+.s-div {
+    width: 30%;
+    height: 10px;
+    background-color: orange;
+    position: relative;
+    bottom: 4px;
+}
+
+.para-p {
+    font-family: "Oswald", sans-serif;
+    font-size: 20px;
+    font-weight: 750;
+}
+
+.tempor {
+    font-size: 17px;
+}
+
+.heartbeat {
+    background-color: orange;
+    color: white;
+}
+
+
+
+.award {
+    background-color: orange;
+}
+
+.health {
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+
+}
+
+.award-card {
+    font-weight: 600;
+    font-family: "Oswald", sans-serif;
+}
+
+
+.border-inner {
+    position: relative;
+}
+
+.border-inner::before {
+    position: absolute;
+    content: "";
+    top: 5px;
+    right: 5px;
+    bottom: 5px;
+    left: 5px;
+    background: none;
+    border: 1px solid white;
+    z-index: 0;
+}
+.client{
+    background-image: url(/cake-shop/img/bg.jpg);background-repeat: no-repeat;
+    background-size: cover;
+}
+.fa-star{
+    background-color: orange;
+    
+}
+.user{
+    background-color: orange;
+}
+.check{
+    background-color: orange;
+
+}
+.mug{
+    background-color: orange;
+
+}
+.our{
+    font-family: "Oswald", sans-serif;
+    font-size: 14px;
+    font-weight: 650;
+    color: orange;
+}
+.num{
+    font-weight: 700;
+
+}
+.menu{
+    color: orange;
+    font-family: 'Pacifico', cursive;
+    font-weight: 600;
+    font-size: 27px;
+}
+.explore{
+    font-family: "Oswald", sans-serif;
+    font-size: 38px;
+    font-weight: 800;
+
+}
+.heading-under{
+    height: 2px;
+    width: 15%;
+    background-color: orange;
+    position: relative;
+}
+.under-flow{
+    height: 8px;
+    width: 30%;
+    background-color: orange;
+    position: relative;
+    bottom: 3px;
+}
+.cake-des {
+    background-color: rgb(43, 40, 37);
+}
+.cake-des li{
+    list-style-type: none;
+}
+.cake-des li a{
+    font-size: 18px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+.birth-day{
+    background-color: orange;
+}
+.cake-det{
+    background-color: rgb(243, 234, 226);
+    
+}
+.price{
+    color: orange;
+    margin-bottom:0 ;
+}
+.members{
+    font-family: 'Pacifico', cursive;
+    font-size: 30px;
+    font-weight: 600;
+    color: orange;
+
+}
+.chefs{
+    font-family: "Oswald", sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+
+}
+.emty-div{
+    position: relative;
+    height: 2px;
+    width: 15%;
+    background-color: orange;
+
+}
+.input-div{
+    position: relative;
+    height: 10px;
+    width: 30%;
+    background-color: orange;
+    bottom: 4px;
+}
+.para{
+    background-color: rgb(43, 40, 37);
+    font-family: "Oswald", sans-serif;
+
+}
+.title{
+    color: orange;
+    font-weight: 600;
+}
+.image{
+    background-image: url(/cake-shop/img/offer.jpg);background-repeat: no-repeat;
+    background-size: cover;
+}
+.opacity{
+    background: rgba(54, 50, 50, 0.7);
+
+}
+.combo{
+    color: orange;
+    font-family: 'Pacifico', cursive;
+    font-weight: 600;
+    font-size: 27px;
+}
+.mtdiv{
+    height: 2px;
+    width: 20%;
+    background-color: orange;
+    position: relative;
+}
+.into-mtdiv{
+    height: 10px;
+    width: 20%;
+    background-color: orange;
+    bottom: 5px;
+    position: relative;
+
+}
+.crispy{
+    font-size: 45px;
+    font-weight: 700;
+    
+}
+.combo{
+    font-weight: 600;
+    font-size: 30px;
+}
+.com-para{
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Oswald", sans-serif;
+
+
+}
+.cri-cake-1{
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.cri-cake-2{
+    font-size: 18px;
+    text-decoration: none;
+
+}
+.btn-col{
+    background-color: black;
+}
+.btn-col:hover{
+    background-color: rgb(44, 44, 44);
+}
+.test{
+    color: orange;
+    font-family: 'Pacifico', cursive;
+    font-weight: 600;
+    font-size: 30px;
+}
+.clients{
+    font-family: "Oswald", sans-serif;
+    font-size: 45px;
+    font-weight: 600;
+
+}
+.foot-start{
+    background-image: url(/cake-shop/img/bg.jpg);
+
+}
+.footer{
+    background-color:orange;
+}
+.foot-p{
+    font-size: 17px;
+    line-height: 30px;
+}
+.touch{
+    font-family: "Oswald", sans-serif;
+    color: orange;
+
+}
+.quick{
+    font-family: "Oswald", sans-serif;
+    color: orange;
+}
+.newsletter{
+    font-family: "Oswald", sans-serif;
+    color: orange;
+}
+.email{
+    outline: none;
+}
+.sign-up{
+    background-color: orange;
+    color: white;
+    font-family: "Oswald", sans-serif;
+
+}
+.sign-up:hover{
+    background-color: rgb(243, 183, 71);
+}
+.end{
+    text-decoration: underline;
+    cursor: pointer;
+}
+@media screen and (max-width:992px) {
+    .cakeimg {
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .cakeimg {
+        background-size: cover;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .cakeimg {
+        background-size: cover;
+    }
+
+    .navbar-brand {
+        font-size: 25px;
+    }
+
+    .fa-birthday-cake {
+        font-size: 25px;
+    }
+
+    .super {
+
+        font-size: 27px;
+    }
+
+    .bannerzone {
+        font-size: 40px;
+
+    }
+
+    .london {
+
+        font-size: 30px;
+    }
+
+    .btn {
+        background-color: orange;
+        border-radius: 3px;
+
+    }
+
+    .cakeimg {
+
+        background-size: cover;
+        background-position: center;
+    }
+    .heading-under{
+        height: 2px;
+        width: 30%;
+
+    }
+    .under-flow{
+        height: 8px;
+        width: 35%;
+    }
+    .explore{
+        font-size: 30px;
+        font-weight: 800;
+    
+    }
+    .star{
+        margin-bottom: 10px;
+    }
+    .users{
+        margin-bottom: 10px;
+    }
+    .check-icon{
+        margin-bottom: 10px;
+    }
+    .mug-icon{
+        margin-bottom: 10px;
+    }
+    .chefs{
+        font-size: 30px;
+    }
+    .emty-div{
+        height: 2px;
+        width: 25%;
+    }
+    .mtdiv{
+        height: 2px;
+        width: 30%;
+    }
+    .into-mtdiv{
+        height: 10px;
+        width: 25%;
+        
+    
+    }
+    .crispy{
+        font-size: 35px;
+        font-weight: 700;
+        
+    }
+    .btn-col:hover{
+        background-color: rgb(44, 44, 44);
+    }
+    .btn-col{
+        background-color: black;
+    }
+    .test{
+        color: orange;
+        font-family: 'Pacifico', cursive;
+        font-weight: 600;
+        font-size: 25px;
+    }
+    .clients{
+        font-family: "Oswald", sans-serif;
+        font-size: 30px;
+        font-weight: 600;
+    
+    }
+}
